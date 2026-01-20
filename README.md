@@ -224,10 +224,6 @@ This project is licensed under the MIT License.
 
 For support, email support@ezdraw.com or join our Discord community.
 
-## 🌐 Live Demo
-
-Visit [https://ezdraw.vercel.app](https://ezdraw.vercel.app) to try the live demo.
-
 ---
 
 **Built with ❤️ by the EZdraw Team**
